@@ -9,4 +9,4 @@ if("twinkle" in contain):
     print("Word is Present")
 else:
     print("Word is Not Present")
-    
+
