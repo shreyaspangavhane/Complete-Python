@@ -1,1 +1,1 @@
-String
+<h2>String and their Method</h2>
