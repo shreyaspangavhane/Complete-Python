@@ -1,5 +1,5 @@
 # self keyword it is used to give access right to function inside the class
-                #neitgher U use the variable of that or not it is mandatory
+                #neither U use the variable of that or not it is mandatory
 
 class Stud():
     name="Shreyas"
